@@ -15,4 +15,7 @@ Every new shape that you havent drawn yet, will increase your score by 1.
 You can reset your game at any point by pressing the Escape button.
 
 
+
+----- images must be in src/imgs
+
 created by : Rebeka Sojka
