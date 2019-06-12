@@ -1,18 +1,20 @@
-Štvorèeková sie
+Å tvorÄekovÃ¡ sieÅ¥
 
-Ako prvé sa zobrazia nastavenia.
-Tu si môe hráè (myšou) ahaním špendlíkov nastavi šírku
-a vıšku hracej plochy.
+Ako prvÃ© sa zobrazia nastavenia.
+Tu si mÃ´Å¾e hrÃ¡Ä (myÅ¡ou) Å¥ahanÃ­m Å¡pendlÃ­kov nastaviÅ¥ Å¡Ã­rku
+a vÃ½Å¡ku hracej plochy.
 
-Po stlaèení Enter sa zobrazí hracia plocha.
+Po stlaÄenÃ­ Enter sa zobrazÃ­ hracia plocha.
 
-Tu hráè kliknutím zvırazní niektoré body mrieky.
-Ak klikne na niektorı bod druhıkrát, tak sa útvar vyfarbí.
-Keïe kreslíme len 3-uholníky a 4-uholníky, 
-tak pri viacerıch bodoch vykres¾ovanie nebude fungova a body budú miznú.
+Tu hrÃ¡Ä kliknutÃ­m zvÃ½raznÃ­ niektorÃ© body mrieÅ¾ky.
+Ak klikne na niektorÃ½ bod druhÃ½krÃ¡t, tak sa Ãºtvar vyfarbÃ­.
+KeÄÅ¾e kreslÃ­me len 3-uholnÃ­ky a 4-uholnÃ­ky, 
+tak pri viacerÃ½ch bodoch vykresÄ¾ovanie nebude fungovaÅ¥ a body budÃº miznÃºÅ¥.
 
-Kedyko¾vek poèas hry môe hráè hru resetova pomocou tlaèidla Escape.
-Takto sa vynuluje skóre a hráè bude znova v nastaveniach. 
+KedykoÄ¾vek poÄas hry mÃ´Å¾e hrÃ¡Ä hru resetovaÅ¥ pomocou tlaÄidla Escape.
+Takto sa vynuluje skÃ³re a hrÃ¡Ä bude znova v nastaveniach. 
 
+
+--------- obrÃ¡zky musia byÅ¥ uloÅ¾enÃ© v src/imgs
 
 autor : Rebeka Sojka
