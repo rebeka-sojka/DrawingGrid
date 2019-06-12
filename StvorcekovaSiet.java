@@ -148,11 +148,11 @@ public class StvorcekovaSiet extends Application {
             double mx = e.getX();
             double my = e.getY();
 
-            if (pinHit(0, mx, my) && inSlideRange(0, my)){
+            if (pinHit(0, mx, my) && inSlideRange(0, mx)){
                 newWidth = ((int)pinsCoords[0][0]/35 + 4);
                 pinsCoords[0][0] = mx - pin.getWidth()/2;
             }
-            else if (pinHit(1, mx, my) && inSlideRange(1, my)) {
+            else if (pinHit(1, mx, my) && inSlideRange(1, mx)) {
                 newHeight = ((int)pinsCoords[1][0]/35 + 4);
                 pinsCoords[1][0] = mx - pin.getWidth()/2;
             }
